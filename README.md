@@ -33,5 +33,5 @@ Mi stack está optimizado para la data, el análisis y el desarrollo web complet
 ### ✉️ ¿Cómo Contactarme?
 
 * **Email (Preferido):** rnovoau09@gmail.com
-* **LinkedIn:** [https://www.linkedin.com/in/rodrigo-novoa-9b2752247]
-* **Portafolio:** [https://rodrigonovoa.netlify.app/]
+* **LinkedIn:** https://www.linkedin.com/in/rodrigo-novoa-9b2752247
+* **Portafolio:** https://rodrigonovoa.netlify.app/
