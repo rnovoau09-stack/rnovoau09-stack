@@ -1,11 +1,5 @@
 # Rodrigo Novoa | Data Analyst y Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-novoa-9b2752247)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Sitio%20Web-2A86FF?style=flat&logo=netlify&logoColor=white)](https://rodrigonovoa.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-rnovoau09@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rnovoau09@gmail.com)
-
----
-
 ### 👤 Quién Soy
 Soy **Científico de la Computación** ($Minor\ en\ Economía$) con doble enfoque: **Análisis de Datos e IA** y **Desarrollo Full-Stack**.
 
