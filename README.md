@@ -1,37 +1,26 @@
-# 🚀 Rodrigo Novoa: Científico de la Computación | Desarrollador Full-Stack & Analista de IA
+# Rodrigo Novoa | Data Analyst y Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-novoa-9b2752247)
-[![Sitio Web Personal](https://img.shields.io/badge/Portfolio-2A86FF?style=flat&logo=netlify&logoColor=white)](https://rodrigonovoa.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rnovoau09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-0077B5?style=flat&logo=linkedin&logoColor=white)]([AÑADE TU URL DE LINKEDIN AQUÍ])
+[![Portafolio](https://img.shields.io/badge/Portafolio-Sitio%20Web-2A86FF?style=flat&logo=netlify&logoColor=white)]([AÑADE TU URL DE PORTAFOLIO AQUÍ])
+[![Email](https://img.shields.io/badge/Email-rnovoau09@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rnovoau09@gmail.com)
 
 ---
 
-### 🧐 Quién Soy
-Soy un **Científico de la Computación** con $Minor\ en\ Economía$. Mi experiencia se centra en la intersección de:
-* **Inteligencia Artificial y Data Science:** Entrenamiento de modelos de IA y análisis riguroso de datos (Experiencia en Intel Corporation).
-* **Desarrollo de Software:** Implementación de soluciones Full-Stack robustas y escalables.
+### 👤 Quién Soy
+[cite_start]Soy **Científico de la Computación** ($Minor\ en\ Economía$) [cite: 2, 4, 21] [cite_start]con doble enfoque: **Análisis de Datos e IA** y **Desarrollo Full-Stack**[cite: 2, 4, 5].
 
-Mi objetivo es aplicar un enfoque analítico y de negocio a proyectos tecnológicos dinámicos.
+* [cite_start]**Especialización:** Experiencia práctica en entrenamiento de modelos de IA y análisis riguroso de datos corporativos (Intel Corporation)[cite: 5, 18].
+* [cite_start]**Lenguaje:** Bilingüe ($Español\ Nativo/Inglés\ Fluido$)[cite: 2, 6].
 
-### 💻 ¿En Qué Estoy Trabajando Actualmente?
+### 🛠️ Herramientas Clave y Proyectos Actuales
 
-Mi enfoque está en el desarrollo funcional y la mejora continua de modelos.
+| Área | Tecnologías Clave | Proyectos y Experiencia |
+| :--- | :--- | :--- |
+| **Data & IA** | [cite_start]**Python** ($Pandas, Matplotlib$), SQL, Tableau [cite: 8, 9] | [cite_start]AI Data Trainer (Handshake AI) [cite: 11][cite_start], Análisis de Sostenibilidad (Intel)[cite: 17, 18]. |
+| **Full-Stack** | [cite_start]JavaScript, HTML, CSS, Java, C [cite: 8] | [cite_start]Desarrollo web con **Supabase** (backend) y **Resend** (correo)[cite: 9, 16]. |
+| **Cloud/Workflow** | [cite_start]Git, Supabase, Resend, Gestión de Proyectos [cite: 9] | [cite_start]University of Arizona (CS), Certificaciones en SQL y Gestión de Proyectos[cite: 20, 24, 25]. |
 
-* **AI Data Trainer | Handshake AI:** Entrenando y mejorando la precisión y el razonamiento de modelos de inteligencia artificial mediante retroalimentación contextual y lingüística.
-* **Full Stack Developer | Quintauso SpA:** Desarrollando y desplegando una página web funcional, implementando un backend con **Supabase** y servicios de correo con **Resend**.
-
-### 🛠️ Herramientas Clave (Tech Stack)
-
-Mi stack está optimizado para la data, el análisis y el desarrollo web completo.
-
-| Categoría | Tecnologías Clave |
-| :--- | :--- |
-| **Data / IA** | **Python** ($Pandas, Matplotlib$), Entrenamiento de Modelos de IA, SQL, Tableau. |
-| **Desarrollo Web** | JavaScript, HTML, CSS, **Supabase**, **Resend**, Java, C. |
-| **Flujo de Trabajo** | Git, Gestión de Proyectos, VS Code. |
-
-### ✉️ ¿Cómo Contactarme?
-
-* **Email (Preferido):** rnovoau09@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/rodrigo-novoa-9b2752247
-* **Portafolio:** https://rodrigonovoa.netlify.app/
+### ✉️ Contacto
+* [cite_start]**Email:** rnovoau09@gmail.com [cite: 3]
+* [cite_start]**Ubicación:** Tucson, AZ [cite: 3]
+* [cite_start]**Teléfono:** (520) 406-8821 [cite: 3]
