@@ -17,8 +17,8 @@ Mi objetivo es aplicar un enfoque analítico y de negocio a proyectos tecnológi
 
 Mi enfoque está en el desarrollo funcional y la mejora continua de modelos.
 
-* **AI Data Trainer (Handshake AI):** Entrenando y mejorando la precisión y el razonamiento de modelos de inteligencia artificial mediante retroalimentación contextual y lingüística.
-* **Proyecto QUINTAUCO:** Desarrollando y desplegando una página web funcional, implementando un backend con **Supabase** y servicios de correo con **Resend**.
+* **AI Data Trainer | Handshake AI:** Entrenando y mejorando la precisión y el razonamiento de modelos de inteligencia artificial mediante retroalimentación contextual y lingüística.
+* **Full Stack Developer | Quintauso SpA:** Desarrollando y desplegando una página web funcional, implementando un backend con **Supabase** y servicios de correo con **Resend**.
 
 ### 🛠️ Herramientas Clave (Tech Stack)
 
