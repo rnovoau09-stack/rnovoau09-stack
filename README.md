@@ -12,5 +12,4 @@ Soy **Científico de la Computación** ($Minor\ en\ Economía$) con doble enfoqu
 | **Cloud/Workflow** | Git, Supabase, Resend, Gestión de Proyectos | University of Arizona (CS), Certificaciones en SQL y Gestión de Proyectos. |
 
 * **Email:** rnovoau09@gmail.com
-* **Ubicación:** Santiago, Chile
 * **Teléfono:** (520) 406-8821
