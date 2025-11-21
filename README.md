@@ -7,7 +7,7 @@
 ---
 
 ### 🧐 Quién Soy
-Soy un **Científico de la Computación** bilingüe ($Español\ Nativo/Inglés\ Fluido$) con $Minor\ en\ Economía$. Mi experiencia se centra en la intersección de:
+Soy un **Científico de la Computación** con $Minor\ en\ Economía$. Mi experiencia se centra en la intersección de:
 * **Inteligencia Artificial y Data Science:** Entrenamiento de modelos de IA y análisis riguroso de datos (Experiencia en Intel Corporation).
 * **Desarrollo de Software:** Implementación de soluciones Full-Stack robustas y escalables.
 
