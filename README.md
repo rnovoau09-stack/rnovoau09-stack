@@ -1,7 +1,7 @@
 # 🚀 Rodrigo Novoa: Científico de la Computación | Desarrollador Full-Stack & Analista de IA
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([AÑADE TU URL DE LINKEDIN AQUÍ])
-[![Sitio Web Personal](https://img.shields.io/badge/Portfolio-2A86FF?style=flat&logo=netlify&logoColor=white)]([AÑADE TU URL DE PORTFOLIO AQUÍ])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-novoa-9b2752247)
+[![Sitio Web Personal](https://img.shields.io/badge/Portfolio-2A86FF?style=flat&logo=netlify&logoColor=white)](https://rodrigonovoa.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rnovoau09@gmail.com)
 
 ---
@@ -34,9 +34,5 @@ Mi stack está optimizado para la data, el análisis y el desarrollo web complet
 ### ✉️ ¿Cómo Contactarme?
 
 * **Email (Preferido):** rnovoau09@gmail.com
-* **Ubicación:** Tucson, AZ
-* **LinkedIn:** [AÑADE TU URL DE LINKEDIN AQUÍ]
-* **Portafolio:** [AÑADE TU URL DE PORTAFOLIO AQUÍ]
-
----
-**Recuerda:** Tu README debe ser un resumen vivo. Si añades un nuevo proyecto relevante o mejoras una métrica, actualízalo inmediatamente.
+* **LinkedIn:** [https://www.linkedin.com/in/rodrigo-novoa-9b2752247]
+* **Portafolio:** [https://rodrigonovoa.netlify.app/]
